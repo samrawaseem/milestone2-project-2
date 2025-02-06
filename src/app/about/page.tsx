@@ -26,7 +26,8 @@ export default function AboutPage() {
       <h2 className="mt-8 text-2xl font-semibold text-white">💼 Experience</h2>
       <ul className="text-gray-300">
         <li className="mt-2">superior Grammar School,khi</li>
-        <li className="mt-2">ospital Pharmacist,Ibn-eseena Hospital Complex</li>
+        <li className="mt-2">Hospital Pharmacist,Ibn-eseena Hospital Complex</li>
+        <li className="mt-2">R&D Department Pharmacist,Nigheban Compunding Pharmacy</li>
       </ul>
     </section>
   );
