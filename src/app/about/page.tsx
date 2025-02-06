@@ -16,15 +16,17 @@ export default function AboutPage() {
 
       <h2 className="mt-8 text-2xl font-semibold text-white">📚 Education</h2>
       <ul className="text-gray-300">
-        <li className="mt-2">Doctor of Pharmacy - Ziauddin University (2019)</li>
-        <li className="mt-2">B.Ed - Karachi University (2024)</li>
+        <li className="mt-2">B.ed in 2024 from Ziauddin University</li>
+        <li className="mt-2">Doctor Of Pharmacy in 2019 from Karachi University</li>
+        <li className="mt-2">Front-End Development from Tech Force Pakistan)</li>
+        <li className="mt-2">Digital Marketing from Tech Force Pakistan</li>
+        <li className="mt-2">Generative AI,Web3 and Metaverse(inprogress)from GIAIC</li>
       </ul>
 
       <h2 className="mt-8 text-2xl font-semibold text-white">💼 Experience</h2>
       <ul className="text-gray-300">
-        <li className="mt-2">Pharmacist - Nigheban Compounding Pharmacy</li>
-        <li className="mt-2">Hospital Pharmacist - Ibn-e-Seena Hospital Complex</li>
-        <li className="mt-2">Lecturer - Superior Grammar School</li>
+        <li className="mt-2">superior Grammar School,khi</li>
+        <li className="mt-2">ospital Pharmacist,Ibn-eseena Hospital Complex</li>
       </ul>
     </section>
   );
